@@ -7,12 +7,11 @@ This file contains the guidelines for the Developers/Collaborators of the "minec
 
 Do's:
 
-  * Always write a commitment description, when editing, removing or oploadinf something.
+  * Always write a commitment description, when editing, removing or oploading something.
   
   * Always use the standard versioning system.
   
-  * 
-  
+  * Always make sure your code is tested, secure, and without errors.
 
 Don'ts:
 
