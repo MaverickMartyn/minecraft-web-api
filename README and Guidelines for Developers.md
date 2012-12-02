@@ -1,6 +1,6 @@
 # README and Guidelines for Collaborators/Devleopers #
 
-## Version 1.0 ##
+### Version 1.0 ###
 
 This file contains the guidelines for the Developers/Collaborators of the "minecraft-login-api" repository.
 
