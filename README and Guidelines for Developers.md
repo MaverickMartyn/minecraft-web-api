@@ -8,9 +8,16 @@ This file contains the guidelines for the Developers/Collaborators of the "minec
 
   * Always write a commitment description, when editing, removing or oploading something.
   
+  * Always make sure, that said commitment description and commitment is complete and correct before publishing.
+  
   * Always use the standard versioning system.
   
   * Always make sure your code is tested, secure, and without errors.
+
+  * Always work and edit files in the "Changes should be made here" or similar directories.
+  
+  * Always read the version you are working on, from the file name,
+  of the version informational file in the working directory specified above.
 
 **Don'ts:**
 
