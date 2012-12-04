@@ -1,0 +1,6 @@
+Re-invented login and registartion methods.
+=========
+
+This proposal, is going to be a fully reinvented set of login and registration methods.
+
+Future versions would be developed from this.

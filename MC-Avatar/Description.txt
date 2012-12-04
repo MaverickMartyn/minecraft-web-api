@@ -1,0 +1,6 @@
+MC-Avatar
+=========
+
+MC-Avatar is supposed to be an API method to get the players skin,
+upon login/registration, and separate the face from the rest.
+The face will then be saved as a picture, and used as the players avatar.
