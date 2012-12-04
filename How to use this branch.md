@@ -1,4 +1,5 @@
-* How to use the discussion branch *
+How to use the discussion branch
+================================
 
 This branch is meant to be a place to propose new features.
 To propose a feature, create a new folder and a new file inside it, named Description.txt.
