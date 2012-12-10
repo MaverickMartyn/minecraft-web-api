@@ -11,7 +11,7 @@ This coding project was started by Lartsch and HackerFinn(Martin Finnerup), and 
   
   
   
-To all Developers/Colaborators!  
+To all Developers/Collaborators!  
 -------------------------------
 Please read all the informational files and README's before changing anything!  
 The todo list is in the discussion branch and will be publicly availible.  
