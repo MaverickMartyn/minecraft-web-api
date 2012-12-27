@@ -1,6 +1,6 @@
 # README and Guidelines for Collaborators/Developers #
 
-### Version 0.4 ###
+### Version 0.5 ###
 
 This file contains the guidelines for the Developers/Collaborators of the "minecraft-login-api" repository.
 
@@ -17,7 +17,9 @@ This file contains the guidelines for the Developers/Collaborators of the "minec
   * Always work and edit files in the "Changes should be made here" or similar directories.
   
   * Always read the version you are working on, from the file name,
-  of the version informational file in the working directory specified above.
+  of the version informational file in the working directory specified above.  
+  
+  * Always update the changelog, when creating a new version and when pushing a version another branch, etc. etc. etc.
 
 **Don'ts:**
 
