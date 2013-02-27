@@ -1,0 +1,108 @@
+body{
+    text-align: center;
+	background-color: #DCDCDC;
+}
+@font-face {
+font-family: myWebFont;
+src: url('Walkway_Bold.ttf'),
+}
+#text{
+	padding-top: 42px;
+	font-family: myWebFont, Arial;
+}
+#box{
+    display:block;
+	margin: 150px auto;
+	color:#ffffff;
+    border-radius:75px;
+	box-shadow: ;
+	opacity:0.8;
+	background:#898989;
+	width:100px;
+	height:100px;
+	font-size:16px;
+	-webkit-transition:-webkit-transform 1.5s, opacity 1.5s, background 1.5s,
+	width 1.5s, height 1.5s, border-radius 1.5s, box-shadow 1.5s;
+}
+#box:hover{
+    -webkit-transform: rotate(360deg);
+	margin: 150px auto;
+	opacity: 1;
+	background: #1ec7e2;
+	width: 300px;
+	height: 300px;
+	border-radius:180px;
+    box-shadow: 10px 10px 5px #888888;
+}
+.inputuser{
+        float: bottom;
+    text-align: center;
+    color:#000000;
+    font-size:12px;
+    background-color:#F4FFF4;
+    height:22px;
+    width:175px;
+    border-radius: 10px;
+    border-style: solid;
+    border-width: 3px;
+    border-color: grey;
+    box-shadow: ;
+    color:;
+
+    -webkit-transition:-webkit-transform 1.5s, width 0.5s, box-shadow 0.5s, border-style 0.5s, background-color 0.5s, border-color 0.5s,
+	color 0.5s;
+}
+.inputuser:focus{
+    width: 225;
+	box-shadow: 10px 10px 5px #888888;
+	border-style: inset;
+	background-color: #1ec7e2;
+	border-color: white;
+	font-family: coolfont, Arial;
+	color: #FFFFFF;
+}
+.inputuser:hover{
+    width: 225;
+	box-shadow: 10px 10px 5px #888888;
+	border-style: inset;
+	background-color: #1ec7e2;
+	border-color: white;
+	color: #FFFFFF;
+	font-family: coolfont, Arial;
+}
+.button_send{
+    top: 100px;
+	right: 20%;
+	text-align: center;
+	color: #DCDCDC;
+	width: 60px;
+	background-color: #1ec7e2;
+	border-radius: 10px;
+	border-style: inset;
+	-webkit-transition:-webkit-transform 1.5s, width 0.5s, border-radius 0.5, color 0.5s, border-style 0.5s, background-color 0.5s;
+}
+.button_send:hover{
+    width: 175px;
+	border-radius: 15px;
+	color: #FFFFFF;
+	border-style: solid;
+	background-color: #30D9F2;
+}
+.reg{
+    width: 250px;
+	height: 75px;
+	text-align: center;
+	margin-left: 45%;
+}
+.reg1{
+    float: bottom;
+    width: 250px;
+	height: 75px;
+    text-align: center;	
+}
+.reg2{
+    float: bottom;
+    width: 250px;
+	height: 75px;	
+}	
+	

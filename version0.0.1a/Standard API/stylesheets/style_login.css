@@ -1,0 +1,77 @@
+@font-face {
+font-family: myWebFont;
+src: url('Walkway_Bold.ttf');
+}
+
+.login{
+	font-family: myWebFont;
+    width: 500px;
+	height: 450x;
+	text-align: center;
+	margin: 20px auto 0px auto;
+}
+
+.inputuser{
+	font-size: 20px;
+    font-family: inherit;
+    text-align: center;
+    background-color:#F4FFF4;
+    height:44px;
+    width:400px;
+    border-radius: 15px;
+    border-style: solid;
+    border-width: 3px;
+    border-color: grey;
+    box-shadow: ;
+    color: ;
+    -webkit-transition: width 0.5s, box-shadow 0.5s, border-style 0.5s, background-color 0.5s, border-color 0.5s,
+	color 0.5s;
+	-moz-transition: width 0.5s, box-shadow 0.5s, border-style 0.5s, background-color 0.5s, border-color 0.5s,
+	color 0.5s;
+	-o-transition: width 0.5s, box-shadow 0.5s, border-style 0.5s, background-color 0.5s, border-color 0.5s,
+	color 0.5s;	
+}
+
+.inputuser:hover{
+    font-family: inherit;
+    width: 300;
+	box-shadow: 10px 10px 5px #888888;
+	border-style: inset;
+	background-color: #1ec7e2;
+	border-color: white;
+	color: #FFFFFF;
+}
+
+.inputuser:focus{
+    font-family: inherit;
+    width: 300;
+	box-shadow: 10px 10px 5px #888888;
+	border-style: inset;
+	background-color: #1ec7e2;
+	border-color: white;
+	color: #FFFFFF;
+	outline: none;
+}
+
+.button_send{
+    font-family: inherit;
+	font-size: 20px;
+	text-align: center;
+	color: #FFFFFF;
+	width: 150px;
+	background-color: #3CF9FF;
+	border-radius: 10px;
+	border-style: inset;
+	-webkit-transition: width 0.5s, border-radius 0.5, color 0.5s, border-style 0.5s, background-color 0.5s;
+	-moz-transition: width 0.5s, border-radius 0.5, color 0.5s, border-style 0.5s, background-color 0.5s;
+	-o-transition: width 0.5s, border-radius 0.5, color 0.5s, border-style 0.5s, background-color 0.5s;	
+}
+
+.button_send:hover{
+    font-family: inherit;
+    width: 275px;
+	border-radius: 15px;
+	color: #FFFFFF;
+	border-style: solid;
+	background-color: #494EF0;
+}
